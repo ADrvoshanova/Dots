@@ -37,42 +37,17 @@ Link до играта:  http://weplaydots.com/
 
 
 Main Menu – корисникот има можност за избор од 4 опции и тоа: New Game, High Scores, Аbout и Exit
-![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpt1/v/t34.0-12/11264407_10153995331163018_534118433_n.jpg?oh=be32c6baf9adc97f4bddc9a13e7d5f39&oe=55529250 "Main Menu")	
-
-
-
-
-
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpt1/v/t34.0-12/11264407_10153995331163018_534118433_n.jpg?oh=be32c6baf9adc97f4bddc9a13e7d5f39&oe=55529250 "Main Menu")
 Ако корисникот избере опцијата New Game ќе се појави овој поглед во којшто мора да внесе Username и потоа за да започне со игра мора го кликне копчето Play.
-
-
-
-
-
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xta1/v/t34.0-12/11253815_10153995736243018_1400212548_n.jpg?oh=07f9723a093ca7bf7d27e7148f0a5c72&oe=55526616 "Enter username")
 По кликање на копчето Play се појавува овој поглед во кој му се овозможува на корисникот да одбере каков тип на игра сака да игра, Timed или Moves.
-
-
-
-
-
- 
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xft1/v/t34.0-12/11127832_10153995736218018_1496825474_n.jpg?oh=752f22018708265964227971f81b61b3&oe=555229D5 "Choose type")
 По избор на тип на играта се прикажуваат следниве погледи во зависност од изборот, соодветно.
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpa1/v/t34.0-12/11225555_10153995736263018_1843180514_n.jpg?oh=7a90a6d9bda4cb9e4c91ea666c2ce23e&oe=5552635F  https://scontent-fra.xx.fbcdn.net/hphotos-xft1/v/t34.0-12/11127832_10153995736318018_1189514084_n.jpg?oh=0f14f02287cd4ad9c872b910553bddc6&oe=55522CB8 "Types of game")
 Со кликање на Quit Game, се враќаме на Main Menu, а по завршувањето на играта се прикажува погледот со најдобрите резултати.
-
-
 До овој поглед, корисникот може да пристапи и со кликнување на копчето High Scores од Main Menu.
-
-
-
-
-
-
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xta1/v/t34.0-12/11123597_10153995735348018_1923983894_n.jpg?oh=f1c323f91c1b4f59e8c90f1cb05ab31b&oe=55524408 "High Scores")
 До овој поглед, корисникот може да пристапи и со кликнување на копчето About од Main Menu. Во овој поглед има неколку интересни факти за играта Dots. Копчето Main Menu го враќа корисникот на глвниот поглед.
-
-
-
-
-
-
-
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpt1/v/t34.0-12/11212258_10153995735518018_297348761_n.jpg?oh=1e4bca637295c6e5479fe82b4c74fddf&oe=555244EE "About")
 Со избор на опцијата Exit, се прикажува MessageBox од којашто корисникот може да избере дали ќе ја прекине апликацијата или ќе си остане на главниот поглед.
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xft1/v/t34.0-12/11261449_10153995735328018_1796902828_n.jpg?oh=095192a392d144674ca227c1efdccbfe&oe=5552421B "Exit")
