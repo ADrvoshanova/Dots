@@ -37,7 +37,7 @@ Link до играта:  http://weplaydots.com/
 
 
 Main Menu – корисникот има можност за избор од 4 опции и тоа: New Game, High Scores, Аbout и Exit
-	
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpt1/v/t34.0-12/11264407_10153995331163018_534118433_n.jpg?oh=be32c6baf9adc97f4bddc9a13e7d5f39&oe=55529250 "Main Menu")	
 
 
 
