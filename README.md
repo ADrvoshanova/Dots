@@ -67,8 +67,8 @@ Main Menu – корисникот има можност за избор од 4 
 По избор на тип на играта се прикажуваат следниве погледи во зависност од изборот, соодветно.
 
 
-![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpa1/v/t34.0-12/11225555_10153995736263018_1843180514_n.jpg?oh=7a90a6d9bda4cb9e4c91ea666c2ce23e&oe=5552635F "Moves")
-![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xft1/v/t34.0-12/11127832_10153995736318018_1189514084_n.jpg?oh=0f14f02287cd4ad9c872b910553bddc6&oe=55522CB8 "Timed")
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xpa1/v/t34.0-12/11245395_10153995927298018_138487815_n.jpg?oh=15298f7fd42d1559a8b1eff43a293fc1&oe=55528127 "Moves")
+![Alt text](https://scontent-fra.xx.fbcdn.net/hphotos-xta1/v/t34.0-12/11253815_10153995927078018_20183954_n.jpg?oh=61881c2dc16f7606d823b8128faa5d05&oe=55515D74 "Timed")
 
 
 Со кликање на Quit Game, се враќаме на Main Menu, а по завршувањето на играта се прикажува погледот со најдобрите резултати.
